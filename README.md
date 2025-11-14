@@ -1,66 +1,60 @@
 Almas Fathimah
 
-AI Engineer and Data Scientist with experience designing and deploying end-to-end machine learning, generative AI, and data engineering solutions across healthcare, IoT, financial analytics, and real estate. Skilled in building LLM applications, RAG pipelines, predictive models, and scalable cloud-native ML systems using AWS, Azure, and modern MLOps workflows.
+AI Engineer and Data Scientist with expertise in developing end-to-end machine learning, generative AI, and data engineering solutions. I build scalable AI applications, retrieval-augmented generation pipelines, and distributed data workflows for healthcare, finance, IoT, and enterprise analytics.
 
 About Me
 
-I specialize in developing production-ready AI systems that integrate machine learning, large language models, and efficient data engineering practices. My work spans predictive modeling, NLP, multimodal analytics, ETL automation, and cloud deployment. I am currently focused on RAG optimization, vector database search, and agent-based AI frameworks.
+I specialize in connecting data engineering, machine learning, and modern AI development to create reliable, production-ready systems. My work spans predictive modeling, NLP, multimodal analytics, ETL automation, and cloud-native ML deployment. I combine strong engineering practices with applied statistical modeling and domain-driven problem solving.
 
-Featured Projects
-Multi-Label Clinical Text Eligibility Classification and Summarization
+Core Competencies
 
-Automated extraction of clinical eligibility information using multi-label classification and LLM-based summarization. Includes data preprocessing, model training, transformer-based classification, and domain-specific summarization workflows.
+Machine Learning: classification, regression, forecasting, anomaly detection
 
-Smart Audio-Video Content Analyzer
+NLP and LLMs: text classification, summarization, embeddings, RAG pipelines
 
-End-to-end multimodal analytics system performing audio and video feature extraction, classification, and content interpretation. Built using modern ML pipelines and deep learning architectures.
+Generative AI: LLM integration, agentic workflows, multi-step reasoning systems
 
-Predicting Patient Outcomes using ASA Classification
+Data Engineering: ETL pipelines, SQL, PySpark, Airflow, SSIS
 
-Machine learning models predicting ASA score and discharge outcomes. Includes feature engineering, class imbalance handling, model comparison, SHAP-based interpretability, and evaluation metrics.
+Cloud & MLOps: AWS SageMaker, Azure ML, Docker, MLflow, CI/CD
 
-Python-Powered Stock Market Analytics with MongoDB, PySpark, and Tableau
+Analytics & BI: Power BI, Tableau, statistical experimentation
 
-Big-data financial analytics pipeline combining MongoDB, PySpark, and Tableau dashboards to analyze high-volume stock market data and generate insights through distributed processing.
+Programming: Python, SQL, Java, C++, Bash
 
-Financial Data Analysis (ETL + Power BI)
+Technology Stack
 
-Full ETL pipeline developed with SSIS, SQL Server, and Power BI. Automates data ingestion, transformation, and reporting with interactive dashboards and scheduled refreshes.
+AI & ML: scikit-learn, XGBoost, LightGBM, HuggingFace, Transformers
+Generative AI: LangChain, LangGraph, FAISS, Pinecone, ChromaDB
+Data Engineering: PySpark, Airflow, SQL Server, PostgreSQL, MongoDB, SSIS
+Cloud: AWS (SageMaker, Lambda, S3), Azure ML, Docker
+MLOps & DevOps: MLflow, GitHub Actions, REST APIs, containerized pipelines
+Visualization: Power BI, Tableau
+Languages: Python, SQL, Java, C++, Bash
 
-Portfolio Optimization and Predictive Modeling (Monte Carlo vs ML Models)
+Current Focus
 
-Analyzes investment strategies using regression models, LSTM forecasting, Monte Carlo simulations, mean-variance optimization, and Sharpe ratio evaluation.
+Building advanced RAG pipelines with optimized retrieval and vector search
 
-UMBC Data Science Chatbot
+Experimenting with agentic AI frameworks such as LangGraph and CrewAI
 
-A conversational chatbot built for student inquiry assistance. Includes intent classification, entity extraction, and structured response generation using NLP techniques.
+Developing scalable, cloud-native ML systems using AWS and containerization
 
-Technical Skills
+Expanding multimodal ML capabilities for audio, video, and IoT telemetry
 
-Machine Learning and AI: Classification, Clustering, Time Series, LLMs, Transformers, RNN/CNN models
-Generative AI: LangChain, LangGraph, Embeddings, Vector Search, RAG pipelines
-Data Engineering: PySpark, Airflow, SQL, MongoDB, ETL workflows, SSIS
-Cloud and MLOps: AWS SageMaker, Bedrock, Azure ML, Docker, Kubernetes, GitHub Actions
-Data Visualization: Power BI, Tableau, Quicksight
-Programming: Python, SQL, Bash, Java, C++
-Tools: FastAPI, Flask, Postman, MLflow, Git
+Automating ETL and orchestration for high-volume data workloads
+
+Professional Background
+
+I hold a Master’s degree in Data Science from UMBC and have hands-on experience across healthcare analytics, financial modeling, IoT telematics, and enterprise AI systems. My work emphasizes scalable architectures, strong data pipelines, model optimization, and measurable business outcomes.
+
+Opportunities
+
+Open to roles and collaborations in AI Engineering, Machine Learning, Generative AI, NLP, and MLOps.
 
 Contact
 
-Email: fathimalnu4@gmail.com
+Email: almasfathima4@gmail.com
 
-LinkedIn: linkedin.com/in/almasfathimah
-<!--
-**AlmasFathimah124/AlmasFathimah124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: [linkedin.com/in/almasfathimah](https://www.linkedin.com/in/almasf/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
